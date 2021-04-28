@@ -1,0 +1,12 @@
+.header{
+    background-color: #2C3E50 ;
+    height: 70px;
+    display: flex;
+
+}
+
+.header h1{
+    color: #AED6F1 ;
+    margin-left: 200px;
+    font-family: Brush Script MT;
+}
